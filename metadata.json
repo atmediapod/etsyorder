@@ -1,0 +1,5 @@
+{
+  "name": "Etsy Order to Sheet Tool",
+  "description": "A professional tool for parsing Etsy order details into a standardized 13-column Google Sheet format with USPS validation and multi-product support.",
+  "requestFramePermissions": []
+}
